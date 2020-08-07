@@ -5,3 +5,4 @@ WHAY RESOLUSI
 - Aamiinn
 
 - Project Pertama Membuat Sistem Absensi Online Untuk Siswa SMK
+- Project Kedua Membuat Online Shop
