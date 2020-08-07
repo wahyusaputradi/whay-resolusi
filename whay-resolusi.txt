@@ -3,3 +3,5 @@ WHAY RESOLUSI
 - Belajar mengenai Web Development
 - Semoga sukses
 - Aamiinn
+
+- Project Pertama Membuat Sistem Absensi Online Untuk Siswa SMK
