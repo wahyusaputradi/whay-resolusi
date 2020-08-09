@@ -1,0 +1,6 @@
+Rencana Belajar Whay
+
+- HTML
+- CSS
+- Javascript
+-  PHP
